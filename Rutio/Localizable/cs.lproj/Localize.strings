@@ -1,0 +1,37 @@
+//Vyhledávač spojení
+"Planning tras" = "Plánování trasy";
+"Start" = "Start";
+"Destination" = "Cíl";
+"Date" = "Datum";
+"Time" = "Čas";
+"Choose transport" = "Vybrat dopravní prostředek";
+"Search history" = "Historie";
+"Search" = "Hledat!";
+
+//SearchStop
+"Data is reloading.." = "Načítání..";
+"Searching" = "Hledej";
+
+//Info o aplikace
+"version" = "Verze 1.0";
+"dark_mode" = "Dark mode";
+"contacts" = "Kontakty";
+"detail_contact" = "WebRock s.r.o.
+CIN: 09839259
+Address: Lidická 700/19, 602 00 Brno, Česká republika
+E-mail: info@rutio.eu
+
+Bank account: 359839259/2010 (Fio banka)
+IBAN: CZ53 2010 0000 0003 5983 9259
+BIC: FIOBCZPPXXX";
+
+//New favourite tras
+"name" = "Název";
+
+//Favourite tras
+"favourite_tras" = "Oblíbené trasy";
+
+//Searched tras
+"You must re-enter the start and end stops." = "Musíte znovu zadat počáteční a koncovou zastávku.";
+"No transport connection found" = "Nenalezeno žádné dopravní spojení";
+"I understand" = "Rozumím";
